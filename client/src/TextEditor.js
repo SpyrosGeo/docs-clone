@@ -12,7 +12,7 @@ export default function TextEditor() {
 //dasdad
            }, [])
     return (
-        <div id="container" ref={wrapperRef}>
+        <div className="container" ref={wrapperRef}>
         </div>
     )
 }
